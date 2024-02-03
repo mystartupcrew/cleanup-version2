@@ -1766,6 +1766,7 @@ TABLE OF CONTENTS:
 
 .bixol-footer .bixol-footer-widget {
 	margin-bottom: 60px;
+
 }
 
 .bixol-footer .bixol-footer-widget h4 {
@@ -2077,7 +2078,7 @@ TABLE OF CONTENTS:
 	left: 0;
 	width: 30px;
 	height: 3px;
-	background-color: #203c6c;
+	background-color: #977c1a;
 }
 
 .h6-footer .bixol-footer-widget p {
@@ -6228,7 +6229,7 @@ i {
 	width: 48%;
 	border: 0;
 	padding: 12px 20px;
-	background-color: #1a386d;
+	background-color: #17181c;
 }
 
 .bixol-gta-area .bixol-gt-right form input[type="text"]::-webkit-input-placeholder {
@@ -6251,7 +6252,7 @@ i {
 	width: 48%;
 	border: 0;
 	padding: 12px 20px;
-	background-color: #1a386d;
+	background-color: #17181c;
 	font-size: 15px;
 	float: right;
 }
@@ -6280,7 +6281,7 @@ i {
 .bixol-gta-area .bixol-gt-right form .bx-form-select select {
 	width: 100%;
 	padding: 12px 20px;
-	background-color: #1a386d;
+	background-color: #17181c;
 	border: 0;
 	color: #c3c4e1;
 	font-size: 15px;
@@ -6290,7 +6291,7 @@ i {
 	width: 100%;
 	margin-top: 20px;
 	border: 0;
-	background-color: #1a386d;
+	background-color: #17181c;
 	padding: 12px 20px;
 	color: #c3c4e1;
 }

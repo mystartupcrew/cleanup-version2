@@ -521,7 +521,7 @@ TABLE OF CONTENTS:
 .bixol-header .bixol-info-bar {
 	padding: 6px 0;
 	
-	background-color: #02154e;
+	background-color: #000;
 }
 
 .bixol-header .bixol-info-bar .bixol-info-left p {
@@ -538,7 +538,7 @@ TABLE OF CONTENTS:
 }
 
 .bixol-header .bixol-info-bar .bixol-info-social a {
-	color: #748bd1;
+	color: #fff;
 	display: inline-block;
 	-webkit-transition: all 0.3s ease-in;
 	-o-transition: all 0.3s ease-in;
@@ -611,7 +611,7 @@ TABLE OF CONTENTS:
 }
 
 .bixol-header .bixol-header-top .bixol-header-item .bixol-item-content label {
-	color: #082680;
+	color: #000;
 	display: block;
 	font-size: 13px;
 }
@@ -621,7 +621,7 @@ TABLE OF CONTENTS:
 	font-family: "Poppins", sans-serif;
 	font-weight: 700;
 	font-size: 19px;
-	color: #082680;
+	color: #000;
 	display: inline-block;
 }
 
@@ -673,7 +673,7 @@ TABLE OF CONTENTS:
 	transform: translateX(-50%);
 	width: 95%;
 	height: 6px;
-	background-color: #22d3ee;
+	background-color: #977c1a;
 	z-index: 10;
 }
 
@@ -1954,7 +1954,7 @@ TABLE OF CONTENTS:
 .bixol-footer .footer-copyright {
 	padding: 18px 0;
 	text-align: center;
-	background-color: #15265b;
+	background-color: #17181C;
 }
 
 .bixol-footer .footer-copyright p {
@@ -2055,7 +2055,7 @@ TABLE OF CONTENTS:
 /************ Home6 Footer ***************/
 
 .h6-footer {
-	background-color: #0a1957;
+	background-color: #000;
 	padding-top: 100px;
 }
 
@@ -2160,16 +2160,16 @@ TABLE OF CONTENTS:
 }
 
 .h6-footer .bixol-footer-widget .bixol-footer-form form input[type="email"] {
-	background-color: #26346a;
+	background-color: #4e5058;
 }
 
 .h6-footer .bixol-footer-widget .bixol-footer-form form button {
-	background-color: #ffd532;
+	background-color: #977c1a;
 	color: #001c8f;
 }
 
 .h6-footer .bixol-footer-widget .bixol-footer-social a {
-	background-color: #26346a;
+	background-color: #4e5058;
 	color: #ffffff;
 	font-size: 14px;
 	width: 25px;
@@ -2995,7 +2995,7 @@ TABLE OF CONTENTS:
 	height: 34px;
 	font-size: 16px;
 	font-weight: 700;
-	color: #082680;
+	color: #7B491D;
 	line-height: 34px;
 	text-align: center;
 	-webkit-border-radius: 34px;
@@ -5284,8 +5284,8 @@ i {
 
 .bixol-about-section .bixol-about-bg {
 	position: absolute;
-	top: 50%;
-	left: 0;
+	top: 56%;
+	left: -137px;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
@@ -5721,7 +5721,7 @@ i {
 	left: -8px;
 	width: 100%;
 	height: 100%;
-	background-color: #22d3ee;
+	background-color: #977c1a;
 	-webkit-clip-path: polygon(0 0, 100% 9%, 100% 95%, 0% 100%);
 	clip-path: polygon(0 0, 100% 9%, 100% 95%, 0% 100%);
 	z-index: 1;
@@ -6210,14 +6210,14 @@ i {
 .bixol-gta-area .bixol-gt-right h4::after {
 	content: '';
 	position: absolute;
-	right: -80px;
+	right: 152px;
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 	width: 60px;
 	height: 2px;
-	background-color: #22d3ee;
+	background-color: #977c1a;
 }
 
 .bixol-gta-area .bixol-gt-right form {
@@ -11963,7 +11963,7 @@ i {
 	transform: translateX(-50%);
 	width: 40px;
 	height: 4px;
-	background-color: #22d3ee;
+	background-color: #7B491D;
 }
 
 .home2-skills-area .home2-skills-column .skills-content p {
